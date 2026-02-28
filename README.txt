@@ -19,7 +19,7 @@ ___________________________________________________________________________
 1. You will need to download a Flash Player.
  - Here is an archive of all Flash Player versions, so you can get whichever one you want from there: https://archive.org/details/flashplayerarchive
  - Alternatively, here is the patch of Flash Player 11 that speedrunners tend to use since it has consistent frames, making the gameplay experience smoother: https://www.speedrun.com/sm63/resources/k55iv
-2. Open the Flash Player version you downloaded, then click File -> Open on the top bar, and select the SWF file included in this ZIP folder.
+2. Open the Flash Player version you downloaded, then click File -> Open on the top bar, and select the SWF file included in this download.
 3. That is all! You can now play Mario Game December 63!
 
 ___________________________________________________________________________
