@@ -42,7 +42,7 @@ ___________________________________________________________________________
 -CHANGELOG-
 
 v1.0 (February 28th, 2026)
-- Initial release of the mod.
+- Initial release of the mod. Most if not all of the content in the Story Mode is translated.
 - Known issues (those will be fixed in a future update; feel free to let me know if you find any others):
   - The level designer is still incomplete, i.e. most of the tiles and objects have not yet been translated or edited. I originally wanted to get it done before the video release, but because I was really busy studying for an exam I did not quite get the time to finish that yet.
   - Some unused images and text lines, along with a few used ones that were accidentally skipped over thinking they were unused, are still incomplete as well.
