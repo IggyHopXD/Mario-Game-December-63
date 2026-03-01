@@ -101,3 +101,5 @@ ___________________________________________________________________________
 * December 20th, 2025: Last few DefineShapes (10711 to 10720) edited.
 * February 11th, 2026: Fixed a Toad in Snowman's Land missing some text translation.
 * February 21st, 2026: Edited the game's title screen to include my name.
+* March 1st, 2026: Edited two shapes that I accidentally skipped over before thinking they were unused.
+
